@@ -1,12 +1,12 @@
 title: Notes
 name: My Public Linked Notes
 user_description: Linked research notes
-notes_url: "https://mvallet91.github.io/public-notes/"
+notes_url: "https://mvallet91.github.io/public-notes/notes"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
 copyright_name: MIT
 baseurl: "/public-notes" # the subpath of your site, e.g. /blog
-url: "https://mvallet91.github.io/public-notes/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mvallet91.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
